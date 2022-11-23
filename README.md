@@ -25,3 +25,5 @@ Objetivo específico
 
 
 
+# BIBLIOGRAFIA
+Circuitos en serie y paralelo. (s. f.). Area Tecnologica. https://www.areatecnologia.com/no-encontrada.html
