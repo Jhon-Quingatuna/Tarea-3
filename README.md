@@ -10,7 +10,8 @@ Materia: Fundamentos de Circuitos Eléctricos
 
 TAREA 2
 
-OBJETIVOS
+#OBJETIVOS
+
 Relaciónar la corriente, voltaje y resistencia mediante la ley de ohm y poder calcular las mismas .
 Definir los términos energía y potencia para poder hacer calculos con los mismo , incorrporando la ley de ohm  
 
