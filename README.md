@@ -584,7 +584,7 @@ RT=(R1||R2||R3||R4||R11||R12)
 
 # vIDEO
 
-
+https://youtu.be/VeNyLwHlVaI
 
 # CONCLUSIONES 
 
