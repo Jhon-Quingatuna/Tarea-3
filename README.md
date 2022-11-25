@@ -10,16 +10,17 @@ Materia: Fundamentos de Circuitos Eléctricos
 
 TAREA 2
 
-#OBJETIVOS
+# OBJETIVOS
 
-Relaciónar la corriente, voltaje y resistencia mediante la ley de ohm y poder calcular las mismas .
-Definir los términos energía y potencia para poder hacer calculos con los mismo , incorrporando la ley de ohm  
+Relaciónar la corriente, voltaje y resistencia mediante la ley de ohm y los circuitos en serie y en paralelo , de igual manera resolver ejercicis referente a la potencia . 
 
 Objetivo específico
-* Calcular la corriente , la resistencia y el voltaje en un circuito
-* Definir y comprender la ley de ohm
-* Entender que es la potencia y energia y relacionarla con los circuitos electricos. 
-* Seleccionar adecuadamente resistores con base en consideraciones de potencia
+
+* Calcular la corriente , la resistencia y el voltaje en un circuito en serie
+* Calcular la corriente , la resistencia y el voltaje en un circuito en paralelo
+* Obtener la resistencia total o resistenciaequivalente en circuitos e seri y en paralelo 
+* Resolver de manera adecuada las potencias en circuitos en serie y en paralelo.
+* 
 # MARCO TEÓRICO
 
 ![image](https://user-images.githubusercontent.com/116813974/203657552-e2596b66-e5c5-4251-8b47-dcef5be10680.png)
@@ -581,9 +582,13 @@ RT=(R1||R2||R3||R4||R11||R12)
 
 ![image](https://user-images.githubusercontent.com/116813974/204024159-7bd6be2d-8e4e-41d4-a306-c68d2838f51d.png)
 
-#CONCLUSIONES 
+# vIDEO
 
 
+
+# CONCLUSIONES 
+
+Los circuitos en serie y en paralelo son utiles en diversas ocaciones ,los divisores de voltaje y corriente son muy utiles ya que no se nesecita de algunos valores para la solucion de estos , la resistencia equyivalente es necesaria para obtener valores y resolver circuitos complejos. 
 
 # BIBLIOGRAFIA
 Circuitos en serie y paralelo. (s. f.). Area Tecnologica. https://www.areatecnologia.com/no-encontrada.html
